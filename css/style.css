@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(24, 25, 59, 0.84);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
